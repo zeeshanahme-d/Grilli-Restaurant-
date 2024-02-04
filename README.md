@@ -1,3 +1,4 @@
-# Grilli Resturen
+# Grilli Restaurant 
 
-![grilli-web](https://github.com/zeeshanahme-d/Grilli-Restaurant-/assets/122614629/8eaafac7-e5ac-40b0-ad34-a8a3c51d95e2)
+![Grilli](https://github.com/zeeshanahme-d/Grilli-Restaurant-/assets/122614629/fbdd8bbc-6796-4564-ab2f-91a3154778e7)
+
